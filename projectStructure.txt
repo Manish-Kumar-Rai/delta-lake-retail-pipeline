@@ -1,0 +1,15 @@
+Project : E-commerce Event-Driven Data Pipeline (Industrial Project) Tech Stack: Databricks, PySpark, Delta Lake, Databricks Volumes, Databricks Workflows, GitHub
+
+→ Multi-Source Data Ingestion Pipeline - Process orders, customers, products, inventory, and shipping data from Databricks Volumes with automated file-based loading and schema validation
+
+→ Advanced Data Validation & Quality Assurance - Cross-reference validation across staging tables, business rule validation, and comprehensive data integrity checks with severity-based scoring
+
+→ Data Enrichment & Business Intelligence - Customer segmentation, product performance analysis, seasonal trends, and Customer Lifetime Value (CLV) calculations
+
+→ SCD2 Implementation - Slowly Changing Dimension Type 2 logic for maintaining historical data with effective/expiry date tracking and automated merge operations
+
+→ Automated File Management - Source file archiving after processing, batch tracking, error logging, and processing status monitoring
+
+→ Analytics Dashboard - Real-time analytics summary tables, customer segment analysis, product performance tracking, and business KPIs
+
+→ Event-Driven Workflow Orchestration - JSON trigger files for batch processing, sequential notebook execution, and comprehensive pipeline monitoring
