@@ -1,0 +1,5 @@
+Ecomm_Event_Driven_Datapipeline/
+*.pdf
+*.zip
+venv/
+.env
